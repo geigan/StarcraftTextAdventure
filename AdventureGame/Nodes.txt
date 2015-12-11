@@ -1,0 +1,35 @@
+Cryo-Station
+Looking around you quickly find your clothes and your trusty T-280 Space Construction Vehicle. You'd best get in and get that AI on the horn to see why your buddies ain't woken up yet.
+COMM
+Locked door,Enter SCV
+
+Maintenance Bay
+You enter the room and look around. The room is a wide open area containing small vehicles and various errant storage containers. This large room also has a large airlock that would be used to reach outside the ship. Closer to the entrance there are also a few workbenches with drawers.
+Manual Backup,Engine Manual
+Move to Hub,Look through storage,Search drawers,Assemble Missile
+
+Storage
+The storage bay. The largest part of the ship. Full of all kinds of containers and compartments with all sorts of merchandise that you are transporting to different sectors. 
+Missile Shell,Rocket Thruster,Nuclear Warhead
+Move to Hub,Use lift,Search Compartments,Open Containers
+
+AI Core
+The central computer for the entire ship. More computers than you know what to do with or how to do with for that matter.
+0
+Move to Hub,Read screen
+
+Engine Room
+A magnificent piece of engineering capable of powering the entire ship is in this room. Also, deadliest part of the ship. You're not sure if that makes you respect it more or less.
+0
+Move to Hub,Pull Handle 1,Pull Handle 2,Pull Handle 3,Pull Handle 4
+
+The Bridge
+This is the head of the ship. Where all the big decisions are made, including navigation. You're usually not allowed up here.
+0
+Move to Hub,Check navigation
+
+Hub
+This is the central tram-system for the entire ship. Where would you like to go?
+0
+Move to Cryo,Move to Maintenance Bay,Move to Storage,Move to AI Core,Move to Engine Room,Move to Bridge
+

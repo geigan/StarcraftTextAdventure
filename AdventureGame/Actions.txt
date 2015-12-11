@@ -1,0 +1,188 @@
+generic action
+error handler
+error handler
+You cannot perform that action here. Make sure you typed the command correctly.
+
+move action
+Move to Hub
+Move to Hub
+You moved to the Hub
+Hub
+
+move action
+Move to Cryo
+Move to Cryo
+You moved to the Cryo-Station
+Cryo-Station
+
+move action
+Move to Maintenance Bay
+Move to Maintenance Bay
+You moved to the Maintenance Bay
+Maintenance Bay
+
+move action
+Move to Storage
+Move to Storage
+You moved to Storage
+Storage
+
+move action
+Move to AI Core
+Move to AI Core
+You moved to the AI Core
+AI Core
+
+move action
+Move to Engine Room
+Move to Engine Room
+You moved to the Engine Room
+Engine Room
+
+move action
+Move to Bridge
+Move to Bridge
+You moved to the Bridge
+The Bridge
+
+pickup action
+Enter SCV
+Enter SCV
+You pop the hatch and settle yourself into your ergnomic seat and give the bobblehead on your dash a little poke. Everything just like you left it. The squawk box is chirping something fierce. Better answer the COMM. (You may use the command "Check bag" at any time to see what is in your inventory, and "Use <item name>" to use that item.)
+COMM
+
+pickup action
+Look through storage
+Look through storage
+Most of the storage containers have FRAGILE stamped on them somewhere. You are in an SCV. The metal containers start flying as you shift things aside looking for one that might actually have what you want in it. Medical supplies? No. Mineral containers? No. Vespene Gas? No. "AI Stuff"? You rip the lid off and get at one of the backup looking things. PRATHER sends you a text ping telling you that it looks corrects. Also he tells you that you cracked all the other backups in your huge claws, so it better be it. Oops.
+Manual Backup
+
+pickup action
+Search drawers
+Search drawers
+You find a handy dandy engine manual. Might be useful.
+Engine Manual
+
+pickup action
+Open Containers
+Open Containers
+Metal boxes are surprisingly light when you're wearing a suit made to lift them. Claws make good can openers too. Handling volatile material so carelessly would be much more dangerous under normal circumstances. You could get written a citation for this if your supervisor was awake! Good thing he's not, so he can't object to what you're about to do with this Rocket Thruster you just found.
+Rocket Thruster
+
+pickup action
+Use lift
+Use lift
+You call down the lift to get to the upper levels and find a Nuclear Warhead just sitting there. Who leaves nuclear material just lying around? You hope your employer didn't skimp on the radiation shielding for your SCV and pack it away in your Bag. That should do just fine for a payload.
+Nuclear Warhead
+
+pickup action
+Search Compartments
+Search Compartments
+Good thing these are built to interface with an SCV's claws. They're not meant to open mid-space-flight, but that's why you're using an SCV to open it and not your bare hands. After setting aside the door and looking inside you find a shell for a missile in short order. Thruster and payload not included for boring safety reasons.
+Missile Shell
+
+key action
+Assemble Missile
+Assemble Missile
+Thankfully the Maintenance Bay has everything you need to properly put this missile together. You pry open the shell and shove the nuclear warhead in. It doesn't quite fit, but that's why you welded a duct tape dispenser to your SCV years ago. The thruster slides in much more nicely, but you give it a good wrapping just for good measure. One improvised WMD, ready for action! PRATHER pings you that he's opening the bay doors and turning the ship to face the pirates. As airlock hisses open you can see the pirates cruiser in all its glory bearing down on you.
+2
+
+key action
+Pull Handle 1
+Pull Handle 1
+You pull the Handle.
+4
+
+key action
+Pull Handle 2
+Pull Handle 2
+You pull the Handle.
+5
+
+key action
+Pull Handle 3
+Pull Handle 3
+You pull the Handle.
+6
+
+key action
+Pull Handle 4
+Pull Handle 4
+You pull the Handle.
+7
+
+generic action
+Check navigation
+Check navigation
+You'll need to turn on the engines before we can get out of here.
+
+key action
+Use navigation
+Use navigation
+You set the destination back to its previous coordinates. Good job! You are a boss! Go back to sleep now. Don't need you anymore.
+8
+
+generic action
+Read screen
+Read screen
+PRATHER's AI core doesn't look very good according to this screen with a bunch of red warning signs on it...wait, no that's just spam email. You actually have no idea how these computers work. You should probably try looking in the Maintenance Bay for something that can help.
+
+generic action
+Check AI
+Check AI
+PRATHER's systems are fully operational.
+
+generic action
+Locked door
+Locked door
+You cannot move through this door until it has been unlocked.
+
+use action
+Use Manual Backup
+Use Manual Backup
+Some static gets buzzed at you over the COMM as you slot in the backup and then alarms start going off all over the place. PRATHER chimes in after a moment, "The good news is that I'm fixed. The bad news is that part of the memory I couldn't access before was that we're under attack by pirates, so uhm, that's a thing we have to deal with." You begin panicking a bit, but you quickly remember that you're hauling a munitions store and remind PRATHER of that. "Yeah, but it's not like you can just slap together a missile from spare parts... wait, you can totally do that. Uh okay okay, go to storage and get a shell for the missile, a thruster for it, and some sort of payload. You should be able to put it all together in the maintenance bay. What are you waiting for? Go, now."
+AI Core
+1
+
+use action
+Use Engine Manual
+Use Engine Manual
+You read about starting the engine. You must pull certain levers in the Engine Room in a certain order. The order is: Third lever, First Lever, Second Lever, and Fourth Lever. If you do it correctly the engine will turn on. If you do it incorrectly the engine will overheat and explode. If you try to pull the handles while the engine is in use the engine will explode. No we don't know why the engineers added that last feature.
+0
+99
+
+use action
+Use Missile
+Use Missile
+You ignite the rocket thruster with the flame from your jetpack and let her rip out the bay doors. You can see a bright flash just as PRATHER closes the airlock once again with a hiss and speaks over the COMM, "NUCLEAR LAUNCH DETECTED. We were carrying nukes!? Well that has the pirates taken care of certainly. You'd best to the engine room and get us fired up so we can get ourselves out of this sector before more pirates show up. Be careful to not get yourself blown up. There's got to be a manual on how to get it working again around here somewhere."
+Maintenance Bay
+3
+
+use action
+Use COMM
+Use COMM
+"Hello? I've detected that someone has activated this SCV prematurely and I can only assume it's the SCV pilot I awoke from cryo-stasis. I am the Personnel Replacement and Telecommunications Handling Ersatz Responder (PRATHER for short) that flies this ship, but my systems have been damaged. I need you to retrieve one of the manual backups from Maintenance. Hurry, my memory is corrupted and I definitely don't want to see the big blue screen of death yet." As the AI finishes talking at you, the locked door hisses open.
+0
+0
+
+use action
+Use Nuclear Warhead
+Use Nuclear Warhead
+There don't appear to be any leaks in the warhead's containment, but your geiger counter hasn't seen maintenance since it was installed so not like you could tell anyway. You'll need a rocket thruster and a shell, and then head off to assemble it in the Maintenance Bay.
+0
+99
+
+use action
+Use Missile Shell
+Use Missile Shell
+Empty like your last christmas stocking. Just need something to stuff it with. You'll need a rocket thruster and a payload of some kind, and then head off to assemble it in the Maintenance Bay.
+0
+99
+
+use action
+Use Rocket Thruster
+Use Rocket Thruster
+Using this inside would not be advisable. Maybe if you strapped it to the back of the SCV...? Nah, you need this for the missile. Better get a payload and a shell for it first, and then assemble it in the Maintenance Bay.
+0
+99
+

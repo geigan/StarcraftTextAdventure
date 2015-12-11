@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1448425840 source:c:\users\steven nagy\desktop\oop\adventuregame\adventureimplementation.cpp
+	<iostream>
+	"AdventureClasses.h"
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+
+1448424875 c:\users\steven nagy\desktop\oop\adventuregame\adventureclasses.h
+	<iostream>
+	<vector>
+
+1448422895 source:c:\users\steven nagy\desktop\oop\adventuregame\adventuregame.cpp
+	"AdventureClasses.h"
+

@@ -1,0 +1,27 @@
+1. Enter Name
+2. Enter SCV
+3. Use COMM
+4. Move to Hub
+5. Move to Maintenance Bay
+6. Look through storage
+7. Move to Hub
+8. Move to AI Core
+9. Use Manual Backup
+10. Move to Hub
+11. Move to Storage
+12. Use lift
+13. Search Compartments
+14. Open Containers
+15. Move to Hub
+16. Move to Maintenance Bay
+17. Assemble Missile
+18. Use Missile
+19. Move to Hub
+20. Move to Engine Room
+21. Pull Handle 3
+22. Pull Handle 1
+23. Pull Handle 2
+24. Pull Handle 4
+25. Move to Hub
+26. Move to Bridge
+27. Use navigation

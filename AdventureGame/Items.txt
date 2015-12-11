@@ -1,0 +1,28 @@
+Manual Backup
+Use Manual Backup
+Look through storage
+
+COMM
+Use COMM
+Enter SCV
+
+Nuclear Warhead
+Use Nuclear Warhead
+Use lift
+
+Missile Shell
+Use Missile Shell
+Search Compartments
+
+Rocket Thruster
+Use Rocket Thruster
+Open Containers
+
+Missile
+Use Missile
+0
+
+Engine Manual
+Use Engine Manual
+Search drawers
+
